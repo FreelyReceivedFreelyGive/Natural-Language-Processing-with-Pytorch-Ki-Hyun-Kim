@@ -8,7 +8,7 @@
       * [Binomial distribution](undefined/untitled-1/undefined/binomial-distribution.md)
       * [Categorical distribution](undefined/untitled-1/undefined/categorical-distribution.md)
       * [Multinomial distribution](undefined/untitled-1/undefined/multinomial-distribution.md)
-    * [Untitled](undefined/untitled-1/untitled-1.md)
+    * [Marginal probability distribution](undefined/untitled-1/untitled-1.md)
     * [Untitled](undefined/untitled-1/untitled.md)
   * [Untitled](undefined/untitled-2.md)
   * [Untitled](undefined/untitled.md)
