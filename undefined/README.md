@@ -1,2 +1,2 @@
-# 기초 수학
+# Basic Mathematics
 
